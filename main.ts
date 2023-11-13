@@ -95,3 +95,6 @@ me.ax = 0
 tiles.setCurrentTilemap(tilemap`層級3`)
 controller.moveSprite(me, 100, 0)
 info.startCountdown(Timer)
+game.onUpdate(function () {
+	
+})
